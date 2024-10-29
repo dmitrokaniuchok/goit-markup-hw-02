@@ -119,8 +119,8 @@ body {
   color: #2e2f42;
   text-transform: capitalize;
 }
-.team.item {
-  background-color: #f4f4fd;
+.team-item {
+  background-color: #ffffff;
 }
 .team-name {
   font-weight: 500;
