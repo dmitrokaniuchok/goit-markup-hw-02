@@ -57,7 +57,7 @@ body {
   color: #2e2f42;
 }
 .main-nav:hover,
-.main-nav:focus a {
+.main-nav:focus {
   color: #404bbf;
   cursor: pointer;
 }
@@ -70,12 +70,12 @@ body {
   letter-spacing: 0.02em;
   color: #434455;
 }
-.mail-send a {
+.mail-send {
   color: #434455;
 }
 
 .mail-send:hover,
-.mail-send:focus a {
+.mail-send:focus {
   color: #404bbf;
 }
 .main-section {
@@ -131,14 +131,8 @@ body {
   color: #2e2f42;
   text-transform: capitalize;
 }
-.team-list {
+.team.items {
   background-color: #ffffff;
-}
-.team.item {
-  background-color: #fff;
-}
-.team-image {
-  background: url("path_to_image");
 }
 .team-name {
   font-family: "Roboto", sans-serif;
