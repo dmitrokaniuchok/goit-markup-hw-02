@@ -10,7 +10,7 @@ a {
 }
 ul,
 ol {
-  text-decoration: none;
+  list-style: none;
 }
 .section-1 {
   font-weight: 500;
